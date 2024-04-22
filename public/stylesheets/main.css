@@ -1,0 +1,25 @@
+@import "./reset.css";
+
+header {
+    background-color: #FFF3E0;
+    height: 100px;
+}
+
+header nav {
+    background-color: #e6caab;
+    display: inline-flex;
+}
+
+main {
+    background-color: #cea685;
+    min-height: 500px;
+}
+
+section {
+    
+}
+
+footer {
+    background-color: #c29849;
+    height: 200px;
+}
